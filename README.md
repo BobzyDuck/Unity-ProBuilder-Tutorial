@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@BobzyDuck/videos">🎮 Unity ProBuilder Tutorial – Watch on YouTube</a>
+  <a href="https://www.youtube.com/watch?v=oVOIqLoBuyg&t=172s">🎮 Unity ProBuilder Tutorial – Watch on YouTube</a>
 </p>
